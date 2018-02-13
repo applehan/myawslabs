@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0627-71D6
+
+ Directory of C:\myAWSlabs
+
+02/12/2018  11:17 PM    <DIR>          .
+02/12/2018  11:17 PM    <DIR>          ..
+02/12/2018  11:17 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,449,082,368 bytes free
